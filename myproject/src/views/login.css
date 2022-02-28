@@ -1,0 +1,16 @@
+html,
+body {
+  margin: 0%;
+}
+
+.form-bg {
+  width: 100%;
+  background: url(/src/images//welcome.jpg) no-repeat center fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: initial;
+  background-origin: initial;
+  background-clip: initial;
+  background-color: initial;
+  background-size: cover !important;
+}
